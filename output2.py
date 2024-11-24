@@ -1,0 +1,5 @@
+print('*****************************')
+print('            PROGRAM PYTHON')
+print('       oleh: PABLO GANTENG')
+print('           kelas: X PPLG 2')
+print('*****************************')
